@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order
+END
+ShippingForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order/ShippingForm.jsp
+END
+ViewOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order/ViewOrder.jsp
+END
+ConfirmOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order/ConfirmOrder.jsp
+END
+NewOrderForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order/NewOrderForm.jsp
+END
+ListOrders.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/order/ListOrders.jsp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/account
+END
+EditAccountForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/account/EditAccountForm.jsp
+END
+IncludeAccountFields.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/account/IncludeAccountFields.jsp
+END
+NewAccountForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/account/NewAccountForm.jsp
+END
+SignonForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/ant/jpetstore-ant/web/account/SignonForm.jsp
+END
